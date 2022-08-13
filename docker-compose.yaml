@@ -1,0 +1,3 @@
+services:
+  infrascripts:
+    image: ${DESKTOP_PLUGIN_IMAGE}
